@@ -1,0 +1,10 @@
+/Users/nramiscal/Desktop/CSharp/july2019/Demos/firstProject/obj/Debug/netcoreapp2.0/firstProject.csproj.CoreCompileInputs.cache
+/Users/nramiscal/Desktop/CSharp/july2019/Demos/firstProject/obj/Debug/netcoreapp2.0/firstProject.AssemblyInfoInputs.cache
+/Users/nramiscal/Desktop/CSharp/july2019/Demos/firstProject/obj/Debug/netcoreapp2.0/firstProject.AssemblyInfo.cs
+/Users/nramiscal/Desktop/CSharp/july2019/Demos/firstProject/bin/Debug/netcoreapp2.0/firstProject.deps.json
+/Users/nramiscal/Desktop/CSharp/july2019/Demos/firstProject/bin/Debug/netcoreapp2.0/firstProject.runtimeconfig.json
+/Users/nramiscal/Desktop/CSharp/july2019/Demos/firstProject/bin/Debug/netcoreapp2.0/firstProject.runtimeconfig.dev.json
+/Users/nramiscal/Desktop/CSharp/july2019/Demos/firstProject/bin/Debug/netcoreapp2.0/firstProject.dll
+/Users/nramiscal/Desktop/CSharp/july2019/Demos/firstProject/bin/Debug/netcoreapp2.0/firstProject.pdb
+/Users/nramiscal/Desktop/CSharp/july2019/Demos/firstProject/obj/Debug/netcoreapp2.0/firstProject.dll
+/Users/nramiscal/Desktop/CSharp/july2019/Demos/firstProject/obj/Debug/netcoreapp2.0/firstProject.pdb
